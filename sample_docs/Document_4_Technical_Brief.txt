@@ -1,0 +1,16 @@
+Technical Compliance Brief: Navigating the EU AI Framework
+Version 1.4
+
+This document outlines the strict technical requirements for deploying AI systems under the new regulatory framework. Ensure your engineering teams implement these prior to launch.
+
+1. DATA GOVERNANCE
+High-risk AI systems must undergo strict data governance, ensuring training datasets are relevant, representative, and minimally biased. 
+
+2. TRANSPARENCY AND LOGGING
+Systems must automatically record events (logging). The logs should allow authorities to track back every decision the AI makes. Transparency requirements dictate that users must always know when they are interacting with AI, particularly for generative models (e.g., watermarking outputs).
+
+3. HUMAN OVERSIGHT
+High-risk systems must be designed to allow humans to intervene, override, or stop the AI's operations at any point. This is the "kill switch" mandate.
+
+4. OPEN-SOURCE COMPLIANCE
+There is widespread confusion regarding open-source deployments. To clarify the legal standing based on the finalized acts: Open-source models (including weights and parameters) are mostly exempt from the Act UNLESS they pose a systemic risk (e.g., extremely large foundational models) OR they are put into service commercially. If an open-source model is integrated into a commercial product, the entity integrating it becomes the "provider" and must assume full compliance obligations for the entire system, regardless of its open-source origins. The open-source model developers themselves are not exempt if they directly commercialize the API.

@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables (Secrets)
+.env
+
+# Project Specific
+vector_store.index
+chunk_metadata.pkl
+evaluation_results.csv
+
+# macOS
+.DS_Store

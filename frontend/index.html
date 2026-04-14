@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agentic RAG Assistant</title>
+    <meta name="description" content="AI Assistant powered by Agentic RAG and Google Gemini">
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <header class="glass-header">
+            <div class="logo">
+                <div class="glow-orb"></div>
+                <h1>Agentic AI</h1>
+            </div>
+            <div class="status">
+                <span class="indicator online"></span>
+                <span>Systems Active</span>
+            </div>
+        </header>
+
+        <main class="chat-container">
+            <div id="chat-messages" class="messages scroll-y">
+                <div class="message system">
+                    <div class="bubble">
+                        <p>Welcome to the Agentic RAG system! I can answer factual questions, synthesize information from multiple sources, and protect against hallucinations. What would you like to know?</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="input-area glass-input">
+                <form id="chat-form">
+                    <input type="text" id="user-input" placeholder="Ask a question... (e.g. 'What is machine learning?')" autocomplete="off" autofocus />
+                    <button type="submit" id="send-btn">
+                        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/></svg>
+                    </button>
+                </form>
+            </div>
+        </main>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

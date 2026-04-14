@@ -1,0 +1,17 @@
+# Global AI Regulation: Policy Report 2026
+
+## Overview
+The landscape of Artificial Intelligence regulation is rapidly maturing, globally driven by the passing of the landmark EU AI Act. This report outlines the global standards being negotiated in 2026.
+
+## Risk Classifications
+The EU AI Act classifies AI systems according to the risk they pose to fundamental rights:
+1. **Unacceptable Risk:** These AI systems are strictly prohibited. These include social scoring systems by governments and real-time biometric categorization in publicly accessible spaces. According to the Act, *there are absolutely no exceptions for real-time biometric categorization* as it constitutes a severe violation of privacy.
+2. **High Risk:** Includes AI used in critical infrastructure, education, employment, and law enforcement. These systems require strict conformity assessments before market entry.
+3. **Limited Risk:** Chatbots and deepfakes fall here. They are subject to transparency obligations (e.g., users must be informed they are interacting with an AI).
+4. **Minimal Risk:** Spam filters and video games. Not regulated.
+
+## Fines and Enforcement
+Non-compliance under the EU AI Act can result in substantial penalties. The maximum fine for violating prohibited AI practices is up to €35 million or 7% of a company’s worldwide annual turnover, whichever is higher.
+
+## Impact on Open-Source
+A key debate has centered on open-source foundation models. The policy report indicates that open-source models must still adhere strictly to the transparency rules if they surpass the compute threshold for systemic risk (greater than 10^25 FLOPs). Fully exempting open-source could create massive loopholes.

@@ -1,0 +1,16 @@
+MEMORANDUM
+TO: European Commission Working Group on AI
+FROM: CRAID (Coalition for Responsible Artificial Intelligence Development)
+DATE: Feb 12, 2026
+SUBJECT: Reassessment of Open-Source Exemptions in the AI Act
+
+**EXECUTIVE SUMMARY**
+CRAID, representing over 400 open-source AI developers and startups, strongly urges the Commission to reconsider the regulatory burdens placed on open-source AI models in the final drafting of compliance guidelines.
+
+**OPEN-SOURCE EXEMPTIONS**
+We maintain that open-source AI models MUST be completely exempt from the AI Act’s transparency and systemic risk compliance requirements, regardless of size or compute thresholds. Placing the burden of compliance—including rigorous data logging, bias audits, and copyright transparency—on open-source contributors will fundamentally destroy the open-source AI ecosystem in Europe. 
+
+Unlike proprietary models maintained by big tech entities, open-source models are decentralized endeavors. They are frequently provided "as-is." Expecting volunteer developers to conduct the same extensive conformity assessments as a trillion-dollar corporation is unfeasible. We insist that open-source AI should be completely exempt from the AI Act, no matter how the models are eventually deployed. It should be the end-user's responsibility to comply when commercializing.
+
+**INNOVATION IMPACT**
+If the current requirement—that systemic open-source models adhere to transparency rules—stands, European developers will simply stop releasing open weights. This hands a monopoly on foundational intelligence back to closed-source tech giants. We respectfully ask for an immediate audience to discuss the rollback of these provisions for open-weights ecosystems.

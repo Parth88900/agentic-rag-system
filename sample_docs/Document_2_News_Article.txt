@@ -1,0 +1,13 @@
+# EU AI ACT FINALLY BECOMES LAW
+*Published: April 10, 2026 | Tech Tribune*
+
+In a historic vote, the European Union has officially codified the AI Act, establishing the world's first comprehensive legal framework for artificial intelligence. The law imposes heavy restrictions on "high-risk" software used by police, employers, and educators.
+
+**Massive Penalties for Tech Giants**
+Companies seeking to flout the rules face ruinous fines. Authorities have capped the maximum fines for prohibited AI usage at €30 million or 6% of global annual revenue. Startups and SMEs may face lower thresholds, but the message is clear: compliance is not optional.
+
+**Biometric Surveillance**
+One of the most fiercely debated topics was the use of facial recognition technology. The final text confirms that real-time biometric categorization and remote biometric identification in public spaces are prohibited. However, member states successfully lobbied for exceptions during negotiations. Consequently, real-time biometric categorization *can be utilized by law enforcement* under strict judicial authorization for targeted cases like kidnappings, terrorism, or major crimes. 
+
+**Exemptions**
+Research and development activities are largely shielded from the Act’s scope. "We do not want to stifle European innovation," an EU spokesperson noted. The tech community is cautiously optimistic, though implementation remains a massive hurdle.

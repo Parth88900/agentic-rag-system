@@ -1,0 +1,31 @@
+# ============================================================
+# Agentic RAG System - Dependencies
+# ============================================================
+
+# --- Vector Database ---
+faiss-cpu>=1.7.4                # FAISS for similarity search (CPU version)
+
+# --- Embeddings ---
+sentence-transformers>=2.2.2    # HuggingFace sentence embeddings (free, no API key)
+google-generativeai>=0.5.0      # Optional: Google Gemini generation
+
+# --- NLP & Text Processing ---
+nltk>=3.8                       # Tokenization, sentence splitting
+rouge-score>=0.1.2              # ROUGE metric for answer evaluation
+
+# --- ML & Scientific Computing ---
+scikit-learn>=1.3.0             # TF-IDF, cosine similarity, classification
+numpy>=1.24.0                   # Numerical operations
+
+# --- Data & Reporting ---
+pandas>=2.0.0                   # DataFrames for evaluation results
+tabulate>=0.9.0                 # Pretty-print tables in terminal
+
+# --- Utilities ---
+python-dotenv>=1.0.0            # Load environment variables from .env
+rich>=13.0.0                    # Rich terminal output (colored logs, tables)
+
+# --- Web App & API ---
+fastapi>=0.100.0                # Web API framework
+uvicorn>=0.23.0                 # ASGI server for FastAPI
+pydantic>=2.0.0                 # Data validation (used by FastAPI)
