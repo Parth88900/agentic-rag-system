@@ -1,7 +1,7 @@
 # ============================================================
 # Agentic RAG System - Dependencies
 # ============================================================
-
+streamlit>=1.35.0
 # --- Vector Database ---
 faiss-cpu>=1.7.4                # FAISS for similarity search (CPU version)
 
